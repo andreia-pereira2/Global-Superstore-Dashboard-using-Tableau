@@ -3,7 +3,7 @@
 ## Project Overview  
 This project analyzes the **Global Superstore Dataset** using **Tableau** to extract insights into sales trends, customer segments, and regional performance.  
 
-https://public.tableau.com/views/UKEmploymentDataset_17368656693180/UKEmploymentData2011-2014?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+(https://public.tableau.com/views/GlobalSuperstoreDashboard_17368721454950/GlobalSuperstoreDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 The dataset is **rich and multidimensional**, allowing the use of various **analytical techniques**, including:  
 - Trend Analysis  
