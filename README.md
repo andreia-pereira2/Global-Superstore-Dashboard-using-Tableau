@@ -81,22 +81,22 @@ Bar Chart: Identifies underperforming products.
 
 ## Insights & Findings  
 **Regional Sales & Profitability:**  
-- The **[Region Name]** had the highest total sales of **$X**.  
-- **[Region Name]** had the lowest sales and profit, signaling potential market challenges.  
+- The **Western Europe** had the highest total sales of **$1,731,930**.  
+- **Central Asia** had the lowest sales and profit, signaling potential market challenges.  
 
 **Best & Worst Performing Product Categories:**  
-- **[Product Category]** was the most profitable, generating **$X** in profit.  
-- **[Product Category]** had the lowest sales and profit margin.  
+- **Technology** was the most profitable, generating **$663,779** in profit.  
+- **Furniture** had the lowest sales and profit margin.  
 
 **Impact of Order Priority:**  
-- **[Priority Level]** orders contributed the most to overall sales.  
-- **[Priority Level]** orders showed the highest shipping cost impact.  
+- **Medium Order Priority** orders contributed the most to overall sales.  
+- **Standard Class** orders showed the highest shipping cost impact.  
 
 **Profitability by Segment:**  
-- The **[Segment Name]** segment generated the most profit.  
+- The **Consumer** segment generated the most profit.  
 
 **Shipping Cost Analysis:**  
-- The highest shipping costs were observed in **[Country/Region]**, impacting profit margins.  
+- The highest shipping costs were observed in **Western Europe**, impacting profit margins.  
 
 ---
 
